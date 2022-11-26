@@ -11,6 +11,9 @@ public class Searchcontrol {
 @RequestMapping("/searchorder")	
 public String searchorder() {
 	
+	System.out.println("omar borkan al gala omar borkan al gala");
+	System.out.println("omar borkan al gala omar borkan al gala");
+	System.out.println("omar borkan al gala omar borkan al gala");
 	return "searchorder";
 }
 	
