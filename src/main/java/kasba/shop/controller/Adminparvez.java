@@ -35,6 +35,7 @@ private Userregrepo urr;
 
 	@RequestMapping("/admin")
 	public String admin() {
+		System.out.println("a,mmi anty chudte valobasi hahaha");
 		
 		return "admin";
 	}
