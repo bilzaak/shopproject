@@ -62,13 +62,6 @@ public Product(String code, String name, String company, float unitprice) {
 
 }
 
-public Product(String code, String name, String company) {
-	super();
-	this.code = code;
-	this.name = name;
-	this.company = company;
-
-}
 
 public Product() {
 	super();
